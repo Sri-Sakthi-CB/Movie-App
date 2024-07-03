@@ -40,9 +40,10 @@
 3. Running the App: 
     To run the app in development mode, use the following command:
 
+    ```bash
     npm run dev
 
-    The app will be available at http://localhost:3000.
+    The app will be available at http://localhost:8000.
 
 ## ScreenShots
 
