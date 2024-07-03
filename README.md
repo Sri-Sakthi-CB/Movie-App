@@ -1,4 +1,4 @@
-# Movies App
+# Movie App
 
 - This repository contains a Movies App built with HTML, CSS and JavaScript and Express. 
 - The Frontend is built using HTML, CSS and JavaScript. 
