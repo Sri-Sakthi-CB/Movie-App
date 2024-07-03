@@ -29,7 +29,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/movies-app.git](https://github.com/Sri-Sakthi-CB/Movie-App.git)
+   git clone https://github.com/Sri-Sakthi-CB/Movie-App.git
    cd Movie-App
 
 2. Install the dependencies:
